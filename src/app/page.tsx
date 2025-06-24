@@ -1,5 +1,5 @@
-import { LandingPage } from "@/templates/lading-page";
 import type { Metadata } from "next";
+import { LandingPage } from "@/templates/lading-page";
 
 export const metadata: Metadata = {
   title: "Site.Set",
